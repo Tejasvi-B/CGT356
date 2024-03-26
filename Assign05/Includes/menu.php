@@ -1,0 +1,1 @@
+<p style="text-align: center;"><a href="select.php"></a> SELECT| <a href="insert.php"></a> INSERT| <a href="update.php"></a> UPDATE | <a href="delete.php"></a> DELETE</p>
